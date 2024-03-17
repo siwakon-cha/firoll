@@ -14,6 +14,7 @@ const Index = () => {
           BET NOW
         </Button>
         <p className="m-4 text-center text-2xl">Powered by FiRoll Protocol</p>
+        <p className="m-4 text-center text-xl">Under 18 Protected By WorldCoin</p>
       </div>
     </div>
   );
