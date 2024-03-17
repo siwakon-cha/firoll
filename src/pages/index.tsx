@@ -13,6 +13,7 @@ const Index = () => {
         <Button color="primary" onClick={() => router.push('/sport')}>
           BET NOW
         </Button>
+        <p className="m-4 text-center text-2xl">Powered by FiRoll Protocol</p>
       </div>
     </div>
   );
